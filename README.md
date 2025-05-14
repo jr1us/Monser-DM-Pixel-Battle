@@ -16,5 +16,10 @@
 ```
 pip install requests pillow
 ```
+
 ![image](https://github.com/user-attachments/assets/55d51ece-7b26-4f03-89e5-7a72b64d0ca3)
 ![image](https://github.com/user-attachments/assets/f7996027-8876-452e-9bdf-1d9e8add0af2)
+
+
+![image](https://github.com/user-attachments/assets/be51953d-56f6-4987-8110-272eff898ff0)
+
