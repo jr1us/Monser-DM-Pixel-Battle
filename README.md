@@ -1,6 +1,6 @@
 # Monser-DM-Pixel-Battle
 
-Данный скрипт помогает добавлять любые надписи в Pixel Battle от проекта Monser RP
+Данный скрипт помогает добавлять любые надписи в Pixel Battle от проекта Monser DM / RP
 
 Скрипт написан на python Автор:
 - t.me/dcapybarov & t.me/lcapybarov
